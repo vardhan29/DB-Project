@@ -26,5 +26,6 @@
 
 
 ## EERD (with new tables)
+![Group 1 - EERD](https://i.ibb.co/ZWBGJKP/EERD.png)
 
 ## Data Dictionary
