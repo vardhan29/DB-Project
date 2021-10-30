@@ -26,6 +26,20 @@
 
 
 ## EERD (with new tables)
+
+Changes Made :
+
+- Added table ratings in the existing schema.
+- Rating table is dependent on the orders table, and hence order_id appears as a foreign key in the table.
+- The table has its own unique identifier: rating_id which acts as the primary key for the table.
+- The other attributes include:
+  * **driver_rating :** Provide rating to the delivery driver
+  * **restaurant_rating :** Provide rating to the restaurant from which the food has been ordered.
+  * **comments :** Allow user to add comments if any
+  * **picture_upload :** Path to pictures directory of the server
+- In the restaurant table, an additional column rating has been added which will have the average rating of each restaurant
+- The items table will be included during the next iteration.
+
 ![Group 1 - EERD](https://i.ibb.co/ZWBGJKP/EERD.png)
 
 ## Data Dictionary
