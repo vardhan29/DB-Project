@@ -46,3 +46,7 @@ Changes Made :
 ![Group 1 - EERD](https://i.ibb.co/ZWBGJKP/EERD.png)
 
 ## Data Dictionary
+						
+![image](https://user-images.githubusercontent.com/54319377/139595739-62731c4c-3957-45b7-bac8-19f666fa4abf.png)
+
+
