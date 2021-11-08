@@ -46,7 +46,7 @@ Changes Made :
 - We also have the item name and price_per_unit (Note that this is independent of the order total)
 - We associates items with an order using order_item table. This table also has the quantity per item ordered.
 
-![Group 1 - EERD](https://github.com/vardhan29/DB-Project/blob/b955a3e51b4c1f3b591de2c8a767087c67488409/diagrams/EERD%20Deliverable%202.png)
+![Group 1 - EERD](https://github.com/vardhan29/DB-Project/blob/c76f41e5830ba229e00e3ee24b6435e0d27ba6ba/diagrams/EERD%20Deliverable%202.png)
 
 ## Data Dictionary
 						
