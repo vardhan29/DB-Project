@@ -44,7 +44,7 @@ Changes Made :
 - Added the item table which will have the food item prepared at a restaurant. Every item has an item_id, restaurant_id as the primary key.
 - We have a composite primary key as same items can be present at different restaurant.
 - We also have the item name and price_per_unit (Note that this is independent of the order total)
-- We associates items with an order using food_items table. This table also has the quantity per item ordered.
+- We associates items with an order using order_item table. This table also has the quantity per item ordered.
 
 ![Group 1 - EERD](https://github.com/vardhan29/DB-Project/blob/b955a3e51b4c1f3b591de2c8a767087c67488409/diagrams/EERD%20Deliverable%202.png)
 
