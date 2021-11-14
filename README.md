@@ -49,7 +49,7 @@ Changes Made :
 ![Group 1 - EERD](https://github.com/vardhan29/DB-Project/blob/8d1d14dd342646000fee372014e51f0be230e517/diagrams/EERD%20Deliverable%202.png)
 
 ## Data Dictionary
-						
-![image](https://user-images.githubusercontent.com/54319377/139595739-62731c4c-3957-45b7-bac8-19f666fa4abf.png)
+![image](https://user-images.githubusercontent.com/54319377/141686268-d8be0f43-bc83-4ef4-ba21-aaf238216bc5.png)
+
 
 
