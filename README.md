@@ -50,7 +50,8 @@ Changes Made :
 
 ## Data Dictionary
 
-![image](https://user-images.githubusercontent.com/54319377/143301605-b07644d5-86c9-4b2f-b8b9-a272b040e1a1.png)
+![image](https://user-images.githubusercontent.com/54319377/143302589-589e4477-02dc-4b5a-bad6-66a3d0836c0e.png)
+
 
 
 
