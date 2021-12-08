@@ -1,3 +1,5 @@
+-- D) Display a particular customer’s rating for a restaurant
+
 USE Campus_Eats_Fall2020;
 
 -- VIEW to get data of customer rating for each restaurant

@@ -2,6 +2,7 @@ USE Campus_Eats_Fall2020;
 
 delimiter $$
 
+-- Creating function to get the total restaurant earning for all the orders processed for the particular restaurant
 CREATE FUNCTION restaurantEaring(rest_id INT) 
 	RETURNS FLOAT DETERMINISTIC
     BEGIN
@@ -15,6 +16,7 @@ CREATE FUNCTION restaurantEaring(rest_id INT)
 
 delimiter ;
 
+-- Demonstrating the use of function in SQL SELECT statement
 SELECT r.restaurant_id, r.restaurant_name, restaurantEaring(r.restaurant_id)
 FROM restaurant r;
     

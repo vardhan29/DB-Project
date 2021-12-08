@@ -1,3 +1,6 @@
+-- C) Display total price of the orders by each customer (distinct) for a 
+-- 		specified date range
+
 USE Campus_Eats_Fall2020;
 
 -- Store the result of JOIN between order and person in order_count

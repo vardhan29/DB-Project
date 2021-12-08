@@ -1,3 +1,6 @@
+-- B) Display a count of the orders made by a customer for a specified date 
+-- 		range when given a customer id
+
 USE Campus_Eats_Fall2020;
 
 -- JOIN order and delivery tables and store the data as CTE in order_count

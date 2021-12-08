@@ -1,3 +1,6 @@
+-- A)  Display the max, min and average ratings for each feature when given 
+-- 		a restaurant ID for all orders for that restaurant
+
 USE Campus_Eats_Fall2020;
 
 -- Stored Procedure to get the average restaurant rating based on all the reviews.
