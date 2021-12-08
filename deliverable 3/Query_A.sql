@@ -2,7 +2,7 @@ USE Campus_Eats_Fall2020;
 
 -- Stored Procedure to get the average restaurant rating based on all the reviews.
 -- Input  : Restaurant id
--- Output : Average Rating of the restaurant
+-- Output : Average, Minimum and Maximum Rating of the restaurant
 
 -- Change Delimiter to '//'
 DELIMITER //
